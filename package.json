@@ -1,0 +1,22 @@
+{
+  "name": "tenth-broadcast-graphics-api",
+  "version": "1.0.0",
+  "description": "Backend for tenth-broadcast-graphics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jowe81/tenth-broadcast-graphics-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jowe81/tenth-broadcast-graphics-api/issues"
+  },
+  "homepage": "https://github.com/jowe81/tenth-broadcast-graphics-api#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
